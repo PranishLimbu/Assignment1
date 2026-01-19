@@ -22,5 +22,5 @@ color: red;
 .image_car{
     object-fit: cover  ;
     height: 200px;
-    width: 200px;
+    width: 100px;
 }
