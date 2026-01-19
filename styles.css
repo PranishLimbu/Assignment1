@@ -1,0 +1,26 @@
+h1{
+    color: green;
+}
+.about-me{
+color: red;
+}
+.abc{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    margin-top: 10px;
+}
+.abc #xyz{
+    background-color: cyan;
+
+}
+.div_collection{
+  display: flex;
+  margin-left: 3px;
+  gap: 3px;
+}
+.image_car{
+    object-fit: contain   ;
+    height: 200px;
+    width: 200px;
+}
