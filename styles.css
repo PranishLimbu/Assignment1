@@ -20,7 +20,7 @@ color: red;
   gap: 3px;
 }
 .image_car{
-    object-fit: contain   ;
+    object-fit: cover  ;
     height: 200px;
     width: 200px;
 }
